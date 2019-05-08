@@ -28,7 +28,7 @@ Looking for more help?
 .. _developer docs: DEVELOP.rst
 .. _support channels: https://crate.io/support/
 .. _Sphinx: http://www.sphinx-doc.org/en/master/
-.. _project docs: https://crate.io/docs/cloud/en/latest/
+.. _project docs: https://crate.io/docs/cloud/iot-data-platform/en/latest/
 
 .. |build-status| image:: https://api.travis-ci.org/crate/iot-data-platform.svg?branch=master
     :alt: build status
